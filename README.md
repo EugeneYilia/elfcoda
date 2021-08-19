@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=elfcoda&theme=synthwave&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=elfcoda&theme=radical&show_icons=true)
 <!--
 **elfcoda/elfcoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Microsoft China
-- 🌱 I’m currently learning elvish
+- 🌱 I’m currently learning elvish synthwave
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
