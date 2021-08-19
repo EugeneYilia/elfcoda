@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=jhin&theme=shades-of-purple)](https://github.com/elfcoda/jhin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=Ashe-lang-support&theme=shades-of-purple)](https://github.com/elfcoda/Ashe-lang-support)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=Nekko0&theme=shades-of-purple)](https://github.com/elfcoda/Nekko0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=rbTree&theme=shades-of-purple)](https://github.com/elfcoda/rbTree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=learning&theme=shades-of-purple)](https://github.com/elfcoda/learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=dotfiles&theme=shades-of-purple)](https://github.com/elfcoda/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elfcoda&repo=resume&theme=shades-of-purple)](https://github.com/elfcoda/resume)
 
